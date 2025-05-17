@@ -59,7 +59,7 @@
 
 ### 🏆 Codeforces Stats  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/azrul16/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
 ---
