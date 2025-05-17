@@ -1,33 +1,67 @@
-<h1 align="center">Hi 👋, I'm Azrul Amaline</h1>
-<h3 align="center">A passionate Django and Flutter devoloper</h3>
+<h1 align="center">Hi 👋, I'm Azrul</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azrul16&label=Profile%20views&color=0e75b6&style=flat" alt="azrul16" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F7FF&width=600&lines=Full-Stack+Hybrid+Mobile+App+Developer;Flutter+%7C+Node.js+%7C+MongoDB+%7C+GraphQL+%7C+REST+API;Building+Scalable+Apps+for+Android+and+iOS!" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azrul16" alt="azrul16" /></a> </p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Azrul16?tab=repositories](https://github.com/Azrul16?tab=repositories)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **azrul.amaline16@gmail.com**
-
-- ⚡ Fun fact **I am good at make you laugh.**
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azrul.amaline16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_azrulamaline) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azrul-amaline) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Azrul16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Azrul16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azrul16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Favourite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Azrul16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">Building innovative, functional, and user-friendly mobile apps across Android.</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Azrul16&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🌟 About Me
+- 💬 **Ask me about:** Mobile Applications, Flutter Framework, Firebase, Node.js, REST API, and GraphQL  
+- 📫 **Contact me at:** azrul.amaline16@gmail.com 
+- 🚀 **Tech Stack:** Flutter | Firebase | Django | Security Analysis | REST API | WebSockets  
+
+---
+
+### 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/azrul-amaline" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/azrulamaline16" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Azrul_Amaline" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:azrul.amaline16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tech & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%2343853D.svg?style=flat&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat&logo=REST&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" />
+</p>
+
+---
+
+
+
+---
+
+### 🏆 Codeforces Stats  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+</p>
+
+---
+
+
